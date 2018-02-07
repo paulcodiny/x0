@@ -66,6 +66,7 @@ Options
 ```
   -d --out-dir    Directory to save index.html and bundle.js to
   -s --static     Only render static HTML (no client-side JS)
+  --doctype       Override default Doctype and meta tags
 ```
 
 ## Fetching Data
